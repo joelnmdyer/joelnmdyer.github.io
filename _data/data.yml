@@ -151,25 +151,6 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
@@ -192,30 +173,34 @@ publications:
         authors: J. Dyer, P. Cannon, J. D. Farmer, S. M. Schmon
         conference: Best Short Paper, ICML 2022 Workshop on AI for Agent-based Modelling
         
+      - title: Amortised likelihood-free inference for expensive time-series simulators with signatured density ratio estimation
+        link: "https://proceedings.mlr.press/v151/dyer22a.html"
+        authors: J. Dyer, P. Cannon, S. M. Schmon
+        conference: AISTATS 2022
+        
       - title: Approximate Bayesian computation with path signatures
         link: "https://arxiv.org/abs/2106.12555"
         authors: J. Dyer, P. Cannon, S. M. Schmon
         conference: Submitted, 2021
-#     papers:
-#     - title: "Bayesian calibration of differentiable agent-based models"
-#         link: "https://arxiv.org/abs/2305.15340"
-#         authors: A. Quera-Bofarull, A. Chopra, A. Calinescu, M. J. Wooldridge, J. Dyer
-#         conference: "ICLR 2023 Workshop on AI for Agent-based Modelling"
 
-#       - title: "Black-box Bayesian inference for agent-based models"
-#         link: "https://arxiv.org/abs/2202.00625"
-#         authors: J. Dyer, P. Cannon, J. D. Farmer, S. M. Schmon
-#         conference: "Submitted, 2022"
+oss:
+    title: Software
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-#       - title: "Calibrating agent-based models to microdata with graph neural networks"
-#         link: "https://openreview.net/forum?id=ZWyHGTUcgJD"
-#         authors: J. Dyer, P. Cannon, J. D. Farmer, S. M. Schmon
-#         conference: "Best Short Paper, ICML 2022 Workshop on AI for Agent-based Modelling"
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-#       - title: Approximate Bayesian computation with path signatures
-#         link: "https://arxiv.org/abs/2106.12555"
-#         authors: J. Dyer, P. Cannon, S. M. Schmon
-#         conference: "Submitted, 2021"
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # skills:
 #     title: Skills &amp; Proficiency

@@ -139,6 +139,10 @@ projects:
       - title: Calibrating agent-based models to microdata with graph neural networks
         link: "https://slideslive.com/38985937"
         tagline: "Recording of my AI4ABM talk on our work on <a href=https://openreview.net/forum?id=ZWyHGTUcgJD>Calibrating agent-based models to microdata with graph neural networks</a>"
+        
+      - title: The expected largest degree in a random attachment model of network growth
+        link: "https://github.com/joelnmdyer/RandomAttachment"
+        tagline: "Mathematics and simulation study of the expected largest degree in a random attachment model of network growth"
 
       - title: Amortised likelihood-free inference for expensive time-series simulators with signatured density ratio estimation
         link: "https://slideslive.com/38980807"

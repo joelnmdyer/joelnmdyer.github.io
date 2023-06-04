@@ -189,9 +189,7 @@ publications:
 oss:
     title: Software
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of my open-source software projects include:
     contributions:
       - title: sbi4abm
         link: "https://github.com/joelnmdyer/sbi4abm"

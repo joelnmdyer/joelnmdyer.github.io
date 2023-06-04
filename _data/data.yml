@@ -84,6 +84,9 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Postdoctoral Researcher
+        time: Present
+        company: University of Oxford
       - role: Research Scientist
         time: 2022 - 2023
         company: Improbable
@@ -179,15 +182,15 @@ publications:
         authors: A. Quera-Bofarull, A. Chopra, A. Calinescu, M. J. Wooldridge, J. Dyer
         conference: ICLR 2023 Workshop on AI for Agent-based Modelling
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Black-box Bayesian inference for agent-based models
+        link: "https://arxiv.org/abs/2202.00625"
+        authors: J. Dyer, P. Cannon, J. D. Farmer, S. M. Schmon
+        conference: Submitted, 2022
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Calibrating agent-based models to microdata with graph neural networks
+        link: "https://openreview.net/forum?id=ZWyHGTUcgJD"
+        authors: J. Dyer, P. Cannon, J. D. Farmer, S. M. Schmon
+        conference: Best Short Paper, ICML 2022 Workshop on AI for Agent-based Modelling
 #     papers:
 #     - title: "Bayesian calibration of differentiable agent-based models"
 #         link: "https://arxiv.org/abs/2305.15340"

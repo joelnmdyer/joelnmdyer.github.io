@@ -194,8 +194,8 @@ oss:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: sbi4abm
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: "https://github.com/joelnmdyer/sbi4abm"
+        tagline: "A toolbox consisting of flexible, simulation-efficient calibration methods for agent-based models"
 
       - title: Atom
         link: "#"

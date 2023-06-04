@@ -191,7 +191,7 @@ oss:
     contributions:
       - title: sbi4abm
         link: "https://github.com/joelnmdyer/sbi4abm"
-        tagline: "A toolbox consisting of flexible, simulation-efficient calibration methods for agent-based models"
+        tagline: "A toolbox consisting of flexible, simulation-efficient <a href=https://arxiv.org/abs/2202.00625>calibration methods for agent-based models</a>"
 
       - title: SignatuRE
         link: "https://github.com/joelnmdyer/SignatuRE"

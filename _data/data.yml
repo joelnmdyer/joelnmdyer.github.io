@@ -142,7 +142,7 @@ projects:
 
       - title: Amortised likelihood-free inference for expensive time-series simulators with signatured density ratio estimation
         link: "https://slideslive.com/38980807"
-        tagline: "Recording of my AISTATS 2022 talk on our work on <a href=https://proceedings.mlr.press/v151/dyer22a.html>Amortised likelihood-free inference for expensive time-series simulators with signatured density ratio estimation</a>"
+        tagline: "Recording of my AISTATS 2022 talk on our work on <a href=https://proceedings.mlr.press/v151/dyer22a.html>Amortised likelihood-free inference for expensive time-series simulators with signatured density ratio estimation</a>. A longer version is available <a href="https://www.youtube.com/watch?v=mXHMWcKsUsE">here</a>"
 
       - title: Approximate Bayesian computation with path signatures
         link: "https://www.youtube.com/watch?v=Rg16McV7giE&t=2s"

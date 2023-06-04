@@ -197,9 +197,9 @@ oss:
         link: "https://github.com/joelnmdyer/sbi4abm"
         tagline: "A toolbox consisting of flexible, simulation-efficient calibration methods for agent-based models"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: SignatuRE
+        link: "https://github.com/joelnmdyer/SignatuRE"
+        tagline: "Code for our AISTATS 2022 paper <a href=https://proceedings.mlr.press/v151/dyer22a.html>'Amortised likelihood-free inference for expensive time-series simulators with signatured ratio estimation'</a>"
 
       - title: Delta
         link: "#"

@@ -128,11 +128,9 @@ experiences:
 #             - Bullet point
 #             - Bullet point
 projects:
-    title: Projects
+    title: Videos and projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some videos and fun projects can be found at the following links:
     assignments:
       - title: Velocity
         link: "#hook"

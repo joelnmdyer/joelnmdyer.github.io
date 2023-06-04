@@ -191,6 +191,11 @@ publications:
         link: "https://openreview.net/forum?id=ZWyHGTUcgJD"
         authors: J. Dyer, P. Cannon, J. D. Farmer, S. M. Schmon
         conference: Best Short Paper, ICML 2022 Workshop on AI for Agent-based Modelling
+        
+      - title: Approximate Bayesian computation with path signatures
+        link: "https://arxiv.org/abs/2106.12555"
+        authors: J. Dyer, P. Cannon, S. M. Schmon
+        conference: Submitted, 2021
 #     papers:
 #     - title: "Bayesian calibration of differentiable agent-based models"
 #         link: "https://arxiv.org/abs/2305.15340"

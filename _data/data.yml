@@ -7,126 +7,120 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Joel Dyer
+    tagline: Postdoctoral Researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: joel dot dyer at cs dot ox dot ac dot uk 
+    #phone: 012 345 6789
+    #timezone: America/Cancun Timezone
+    #citizenship:
+    website: joelnmdyer.github.io #do not add http://
+    linkedin: joelnmdyer
+    #xing: alandoe
+    github: joelnmdyer
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    twitter: '@joelnmdyer'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+#     languages:
+#       title: Languages
+#       info:
+#         - idiom: English
+#           level: Native
 
-        - idiom: French
-          level: Professional
+#         - idiom: French
+#           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+#         - idiom: Spanish
+#           level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+#     interests:
+#       title: Interests
+#       info:
+#         - item: Climbing
+#           link:
 
-        - item: Snowboarding
-          link:
+#         - item: Snowboarding
+#           link:
 
-        - item: Cooking
-          link:
+#         - item: Cooking
+#           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a postdoctoral researcher at the University of Oxford's Department of Computer Science
+      and a Research Fellow at the Oxford Institute for New Economic Thinking, where I develop 
+      methodology and tooling for agent-based simulation models. I recently completed a DPhil in 
+      computational statistics and machine learning at the University of Oxford’s Mathematical 
+      Institute and Institute for New Economic Thinking under the supervision of Prof. J. Doyne 
+      Farmer. Previously, I worked as a Research Scientist at Improbable, before returning to academia.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: DPhil in Computational Statistics and Machine Learing
+        university: Mathematical Institute, University of Oxford
+        time: 2018 - 2022
+#         details: |
+#           Describe your study here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#           sociis natoque penatibus et magnis dis parturient montes, nascetur
+#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#           pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
+      - degree: Visiting Research Student
+        university: The Alan Turing Institute & University of Bristol
+        time: 2021 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+           Enrichment Student for academic year 2021-22
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: Research Scientist
+        time: 2022 - 2023
+        company: Improbable
+#         details: |
+#           Describe your role here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#           Cum sociis natoque penatibus et magnis dis parturient montes,
+#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#           pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#           enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#           error sit voluptatem accusantium doloremque laudantium, totam rem
+#           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#           architecto beatae vitae dicta sunt explicabo.
+#             - Bullet point
+#             - Bullet point
+      - role: Data Science Researcher
+        time: July - October 2021
+        company: Energy Systems Catapult
+#         details: |
+#           Describe your role here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#           Cum sociis natoque penatibus et magnis dis parturient montes,
+#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#           pellentesque eu, pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
+#       - role: UI Developer
+#         time: 2012 - 2014
+#         company: Amazon, London
+#         details: |
+#           Describe your role here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#           Cum sociis natoque penatibus et magnis dis parturient montes,
+#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#           pellentesque eu, pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
 projects:
     title: Projects
     intro: >

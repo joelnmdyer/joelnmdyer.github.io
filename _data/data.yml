@@ -174,10 +174,10 @@ publications:
       <a href="https://scholar.google.com/citations?user=HeQWo3QAAAAJ&hl=en">Google Scholar</a>
       page. Some recent papers include:
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Bayesian calibration of differentiable agent-based models
+        link: "https://arxiv.org/abs/2305.15340"
+        authors: A. Quera-Bofarull, A. Chopra, A. Calinescu, M. J. Wooldridge, J. Dyer
+        conference: ICLR 2023 Workshop on AI for Agent-based Modelling
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
@@ -188,13 +188,6 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
-# publications:
-#     title: Publications
-#     intro: |
-#       A full list of my publications can be found on my 
-#       <a href="https://scholar.google.com/citations?user=HeQWo3QAAAAJ&hl=en">Google Scholar</a>
-#       page. Some recent papers include:
 #     papers:
 #     - title: "Bayesian calibration of differentiable agent-based models"
 #         link: "https://arxiv.org/abs/2305.15340"

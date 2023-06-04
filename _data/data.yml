@@ -130,22 +130,22 @@ experiences:
 projects:
     title: Videos and blogs
     intro: Some of my talks and blogs/fun projects can be found at the following links:
-    assignments:
-      - title: Black-box Bayesian inference for agent-based models
-        link: "https://www.youtube.com/watch?v=yVNE8focE30&t=1901s"
-        tagline: "Recording of my INET Oxford talk on <a href=https://arxiv.org/abs/2202.00625>Black-box Bayesian inference for agent-based models</a>"
+#     assignments:
+#       - title: Black-box Bayesian inference for agent-based models
+#         link: "https://www.youtube.com/watch?v=yVNE8focE30&t=1901s"
+#         tagline: "Recording of my INET Oxford talk on <a href=https://arxiv.org/abs/2202.00625>Black-box Bayesian inference for agent-based models</a>"
 
-      - title: Calibrating agent-based models to microdata with graph neural networks
-        link: "https://slideslive.com/38985937"
-        tagline: "Recording of my AI4ABM talk on our work on <a href=https://openreview.net/forum?id=ZWyHGTUcgJD>Calibrating agent-based models to microdata with graph neural networks</a>"
+#       - title: Calibrating agent-based models to microdata with graph neural networks
+#         link: "https://slideslive.com/38985937"
+#         tagline: "Recording of my AI4ABM talk on our work on <a href=https://openreview.net/forum?id=ZWyHGTUcgJD>Calibrating agent-based models to microdata with graph neural networks</a>"
 
-      - title: Amortised likelihood-free inference for expensive time-series simulators with signatured density ratio estimation
-        link: "https://slideslive.com/38980807"
-        tagline: "Recording of my AISTATS 2022 talk on our work on <a href=https://proceedings.mlr.press/v151/dyer22a.html>Amortised likelihood-free inference for expensive time-series simulators with signatured density ratio estimation</a>"
+#       - title: Amortised likelihood-free inference for expensive time-series simulators with signatured density ratio estimation
+#         link: "https://slideslive.com/38980807"
+#         tagline: "Recording of my AISTATS 2022 talk on our work on <a href=https://proceedings.mlr.press/v151/dyer22a.html>Amortised likelihood-free inference for expensive time-series simulators with signatured density ratio estimation</a>"
 
-      - title: Approximate Bayesian computation with path signatures
-        link: "https://www.youtube.com/watch?v=Rg16McV7giE&t=2s"
-        tagline: "Recording of my One World ABC talk on our work on <a href=https://arxiv.org/abs/2106.12555>Approximate Bayesian computation with path signatures</a>"
+#       - title: Approximate Bayesian computation with path signatures
+#         link: "https://www.youtube.com/watch?v=Rg16McV7giE&t=2s"
+#         tagline: "Recording of my One World ABC talk on our work on <a href=https://arxiv.org/abs/2106.12555>Approximate Bayesian computation with path signatures</a>"
 
 publications:
     title: Publications

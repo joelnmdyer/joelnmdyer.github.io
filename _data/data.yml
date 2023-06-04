@@ -151,7 +151,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+oss:
     title: Publications
     intro: |
       A full list of my publications can be found on my 
@@ -183,7 +183,7 @@ publications:
         authors: J. Dyer, P. Cannon, S. M. Schmon
         conference: Submitted, 2021
 
-oss:
+publications:
     title: Software
     intro: >
       You can list your open source software contributions in this

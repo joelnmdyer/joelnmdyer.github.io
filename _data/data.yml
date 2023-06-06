@@ -135,7 +135,7 @@ projects:
       Some videos and fun projects can be found at the following links:
     assignments:
       - title: Black-box Bayesian inference for agent-based models
-        link: "https://www.youtube.com/watch?v=yVNE8focE30&t=1901s"
+        link: "https://www.youtube.com/watch?v=yVNE8focE30"
         tagline: "Recording of my INET Oxford talk on <a href=https://arxiv.org/abs/2202.00625>Black-box Bayesian inference for agent-based models</a>"
 
       - title: Calibrating agent-based models to microdata with graph neural networks
@@ -151,7 +151,7 @@ projects:
         tagline: "Recording of my AISTATS 2022 talk on our work on <a href=https://proceedings.mlr.press/v151/dyer22a.html>Amortised likelihood-free inference for expensive time-series simulators with signatured density ratio estimation</a>. A longer version is available <a href=https://www.youtube.com/watch?v=mXHMWcKsUsE>here</a>"
 
       - title: Approximate Bayesian computation with path signatures
-        link: "https://www.youtube.com/watch?v=Rg16McV7giE&t=2s"
+        link: "https://www.youtube.com/watch?v=Rg16McV7giE"
         tagline: "Recording of my One World ABC talk on our work on <a href=https://arxiv.org/abs/2106.12555>Approximate Bayesian computation with path signatures</a>"
 
 publications:

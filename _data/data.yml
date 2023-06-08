@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Joel Dyer
-    tagline: Postdoctoral Researcher
+    tagline: Postdoctoral Researcher in AI for Agent-based Modelling
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -87,9 +87,12 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Postdoctoral Researcher
+      - role: Postdoctoral Researcher in AI for Agent-based Modelling
         time: Present
         company: University of Oxford
+        details: |
+          My research draws from statistics and machine learning to develop methodology and 
+          tooling for agent-based models
       - role: Research Fellow
         time: Present
         company: Institute for New Economic Thinking, Oxford

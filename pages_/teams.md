@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /zoom
-title: zoom
-description: meeting zoom link
+permalink: /teams
+title: teams
+description: Meeting Teams link
 nav: false
 nav_order: 5
 ---

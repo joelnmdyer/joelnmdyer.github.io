@@ -57,9 +57,10 @@ career-profile:
     title: Career Profile
     summary: |
       I am a postdoctoral researcher at the University of Oxford's Department of Computer Science
-      and a Research Fellow at the Oxford Institute for New Economic Thinking. I develop
-      tools to help decision-makers reason about and experiment with complex systems through the
-      use of data-driven, and often agent-based, simulation models.
+      and a Research Fellow at the Oxford Institute for New Economic Thinking. I draw on computational
+      statistics and machine learning to develop
+      tools that help decision-makers reason about and experiment with complex systems using (often agent-based) 
+      simulation models.
       
       I recently completed a DPhil in 
       computational statistics and machine learning at the University of Oxford’s Mathematical 
@@ -90,9 +91,9 @@ experiences:
       - role: Postdoctoral Researcher
         time: Present
         company: University of Oxford
-        details: |
-          My research draws from statistics and machine learning to develop methodology and 
-          tooling for agent-based models.
+#         details: |
+#           My research draws from statistics and machine learning to develop methodology and 
+#           tooling for agent-based models.
       - role: Research Fellow
         time: Present
         company: Institute for New Economic Thinking, Oxford

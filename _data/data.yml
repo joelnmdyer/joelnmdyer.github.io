@@ -207,6 +207,10 @@ oss:
         link: "https://github.com/joelnmdyer/sbi4abm"
         tagline: "A toolbox consisting of flexible, simulation-efficient <a href=https://arxiv.org/abs/2202.00625>calibration methods for agent-based models</a>"
 
+      - title: BlackBIRDS: Black-Box Inference foR Differentiabke Simulators
+        link: "https://github.com/arnauqb/blackbirds"
+        tagline: "A toolbox consisting of parameter inference methods for differentiable simulation models"
+
       - title: SignatuRE
         link: "https://github.com/joelnmdyer/SignatuRE"
         tagline: "Code for our AISTATS 2022 paper <a href=https://proceedings.mlr.press/v151/dyer22a.html>'Amortised likelihood-free inference for expensive time-series simulators with signatured ratio estimation'</a>"
@@ -234,4 +238,4 @@ oss:
 #         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    

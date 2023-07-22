@@ -207,9 +207,9 @@ oss:
         link: "https://github.com/joelnmdyer/sbi4abm"
         tagline: "A toolbox consisting of flexible, simulation-efficient <a href=https://arxiv.org/abs/2202.00625>calibration methods for agent-based models</a>"
 
-      - title: BlackBIRDS: Black-Box Inference foR Differentiabke Simulators
+      - title: BlackBIRDS
         link: "https://github.com/arnauqb/blackbirds"
-        tagline: "A toolbox consisting of parameter inference methods for differentiable simulation models"
+        tagline: "A toolbox consisting of methods to perform Black-Box Inference foR Differentiable Simulators"
 
       - title: SignatuRE
         link: "https://github.com/joelnmdyer/SignatuRE"

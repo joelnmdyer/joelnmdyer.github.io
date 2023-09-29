@@ -173,6 +173,11 @@ publications:
         authors: J. Dyer, A. Quera-Bofarull, A. Chopra, J. D. Farmer, A. Calinescu, M. J. Wooldridge
         conference: Proceedings of the Fourth International Conference on AI in Finance (ICAIF 2023)
 
+      - title: BlackBIRDS - Black-Box Inference foR Differentiable Simulators
+        link: "https://joss.theoj.org/papers/10.21105/joss.05776"
+        authors: A. Quera-Bofarull, J. Dyer, A. Calinescu, J. D. Farmer, M. J. Wooldridge
+        conference: The Journal of Open Source Software
+
       - title: Some challenges of calibrating differentiable agent-based models
         link: "https://arxiv.org/pdf/2307.01085"
         authors: A. Quera-Bofarull, J. Dyer, A. Calinescu, M. J. Wooldridge

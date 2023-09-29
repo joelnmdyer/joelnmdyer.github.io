@@ -168,7 +168,7 @@ publications:
       <a href="https://scholar.google.com/citations?user=HeQWo3QAAAAJ&hl=en">Google Scholar</a>
       page. Some recent papers include:
     papers:      
-    - title: Some challenges of calibrating differentiable agent-based models
+      - title: Some challenges of calibrating differentiable agent-based models
         link: "https://arxiv.org/pdf/2307.01085"
         authors: A. Quera-Bofarull, J. Dyer, A. Calinescu, M. J. Wooldridge
         conference: ICML 2023 Workshop on Differentiable Almost Everything

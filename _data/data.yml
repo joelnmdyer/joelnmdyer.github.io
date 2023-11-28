@@ -141,6 +141,10 @@ projects:
     intro: >
       Some videos and fun projects can be found at the following links:
     assignments:
+      - title: Variational Bayesian inference for agent-based models
+        link: "https://www.youtube.com/watch?v=ria0aKWztGE"
+        tagline: "Recording of my INET Oxford talk on <a href=https://www.inet.ox.ac.uk/publications/gradient-assisted-calibration-for-financial-agent-based-models/>the use of generalised variational Bayesian inference for calibrating agent-based models</a>"
+
       - title: Black-box Bayesian inference for agent-based models
         link: "https://www.youtube.com/watch?v=yVNE8focE30"
         tagline: "Recording of my INET Oxford talk on <a href=https://arxiv.org/abs/2202.00625>Black-box Bayesian inference for agent-based models</a>"

@@ -169,7 +169,7 @@ publications:
       page. Some recent papers include:
     papers:      
       - title: Gradient-assisted calibration for agent-based models in finance
-        link: "https://ora.ox.ac.uk/objects/uuid:71e55ed6-d7c2-4475-b8dc-2d9cf34933f2/download_file?file_format=application%2Fpdf&safe_filename=Dyer_et_al_2023_Gradient-assisted_Calibration_for.pdf&type_of_work=Conference+item"
+        link: "https://dl.acm.org/doi/10.1145/3604237.3626857"
         authors: J. Dyer, A. Quera-Bofarull, A. Chopra, J. D. Farmer, A. Calinescu, M. J. Wooldridge
         conference: Proceedings of the Fourth International Conference on AI in Finance (ICAIF 2023)
 

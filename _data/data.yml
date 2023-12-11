@@ -137,9 +137,9 @@ experiences:
 #             - Bullet point
 #             - Bullet point
 projects:
-    title: Videos and projects
+    title: Videos, projects, and blogs
     intro: >
-      Some videos and fun projects can be found at the following links:
+      Some videos, projects, and blogs can be found at the following links:
     assignments:
       - title: Variational Bayesian inference for agent-based models
         link: "https://www.youtube.com/watch?v=ria0aKWztGE"
@@ -160,6 +160,10 @@ projects:
       - title: Amortised likelihood-free inference for expensive time-series simulators with signatured density ratio estimation
         link: "https://slideslive.com/38980807"
         tagline: "Recording of my AISTATS 2022 talk on our work on <a href=https://proceedings.mlr.press/v151/dyer22a.html>Amortised likelihood-free inference for expensive time-series simulators with signatured density ratio estimation</a>. A longer version is available <a href=https://www.youtube.com/watch?v=mXHMWcKsUsE>here</a>"
+
+      - title: Blog post on my role as a Data Science Challenge Facilitator at one of The Alan Turing Institute's Data Study Groups
+        link: "https://www.cdrc.ac.uk/inside-the-turing-lida-data-study-group/"
+        tagline: "Associated report is <a href=https://doi.org/10.5281/zenodo.6498023>here</a>"
 
       - title: Approximate Bayesian computation with path signatures
         link: "https://www.youtube.com/watch?v=Rg16McV7giE"

@@ -176,6 +176,11 @@ publications:
       <a href="https://scholar.google.com/citations?user=HeQWo3QAAAAJ&hl=en">Google Scholar</a>
       page. Some recent papers include:
     papers:       
+      - title: Interventionally consistent surrogates for agent-based simulators
+        link: "https://arxiv.org/abs/2312.11158"
+        authors: J. Dyer, N. Bishop, Y. Felekis, F. M. Zennaro, A. Calinescu, T. Damoulas, M. J. Wooldridge
+        conference: Submitteed, 2023
+       
       - title: Population synthesis as scenario generation for simulation-based planning under uncertainty
         link: "https://ora.ox.ac.uk/objects/uuid:87663b7f-60ca-44f3-8fa5-b9fd501e6270"
         authors: J. Dyer, A. Quera-Bofarull, N. Bishop, J. D. Farmer, A. Calinescu, M. J. Wooldridge

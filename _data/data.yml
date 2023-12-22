@@ -175,7 +175,12 @@ publications:
       A full list of my publications can be found on my 
       <a href="https://scholar.google.com/citations?user=HeQWo3QAAAAJ&hl=en">Google Scholar</a>
       page. Some recent papers include:
-    papers:      
+    papers:       
+      - title: Population synthesis as scenario generation for simulation-based planning under uncertainty
+        link: "https://ora.ox.ac.uk/objects/uuid:87663b7f-60ca-44f3-8fa5-b9fd501e6270"
+        authors: J. Dyer, A. Quera-Bofarull, N. Bishop, J. D. Farmer, A. Calinescu, M. J. Wooldridge
+        conference: Forthcoming in the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)
+     
       - title: Gradient-assisted calibration for agent-based models in finance
         link: "https://dl.acm.org/doi/10.1145/3604237.3626857"
         authors: J. Dyer, A. Quera-Bofarull, A. Chopra, J. D. Farmer, A. Calinescu, M. J. Wooldridge

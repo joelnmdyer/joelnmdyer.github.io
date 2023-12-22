@@ -201,11 +201,6 @@ publications:
         authors: A. Quera-Bofarull, J. Dyer, A. Calinescu, M. J. Wooldridge
         conference: ICML 2023 Workshop on Differentiable Almost Everything
 
-      - title: Bayesian calibration of differentiable agent-based models
-        link: "https://arxiv.org/abs/2305.15340"
-        authors: A. Quera-Bofarull, A. Chopra, A. Calinescu, M. J. Wooldridge, J. Dyer
-        conference: ICLR 2023 Workshop on AI for Agent-based Modelling
-
       - title: Black-box Bayesian inference for agent-based models
         link: "https://arxiv.org/abs/2202.00625"
         authors: J. Dyer, P. Cannon, J. D. Farmer, S. M. Schmon

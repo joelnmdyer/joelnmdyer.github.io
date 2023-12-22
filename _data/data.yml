@@ -178,7 +178,7 @@ publications:
     papers:       
       - title: Interventionally consistent surrogates for agent-based simulators
         link: "https://arxiv.org/abs/2312.11158"
-        authors: J. Dyer, N. Bishop, Y. Felekis, F. M. Zennaro, A. Calinescu, T. Damoulas, M. J. Wooldridge
+        authors: <b>J. Dyer</b>, N. Bishop, Y. Felekis, F. M. Zennaro, A. Calinescu, T. Damoulas, M. J. Wooldridge
         conference: Submitteed, 2023
        
       - title: Population synthesis as scenario generation for simulation-based planning under uncertainty

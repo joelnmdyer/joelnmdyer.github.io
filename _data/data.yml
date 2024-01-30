@@ -180,6 +180,11 @@ publications:
         link: "https://arxiv.org/abs/2312.11158"
         authors: <b>J. Dyer</b>, N. Bishop, Y. Felekis, F. M. Zennaro, A. Calinescu, T. Damoulas, M. J. Wooldridge
         conference: Submitted, 2023
+
+      - title: Black-box Bayesian inference for agent-based models
+        link: "https://arxiv.org/abs/2202.00625"
+        authors: <b>J. Dyer</b>, P. Cannon, J. D. Farmer, S. M. Schmon
+        conference: Forthcoming in the Journal of Economic Dynamics and Control, 2024
        
       - title: Population synthesis as scenario generation for simulation-based planning under uncertainty
         link: "https://ora.ox.ac.uk/objects/uuid:87663b7f-60ca-44f3-8fa5-b9fd501e6270"
@@ -200,11 +205,6 @@ publications:
         link: "https://arxiv.org/pdf/2307.01085"
         authors: A. Quera-Bofarull, <b>J. Dyer</b>, A. Calinescu, M. J. Wooldridge
         conference: ICML 2023 Workshop on Differentiable Almost Everything
-
-      - title: Black-box Bayesian inference for agent-based models
-        link: "https://arxiv.org/abs/2202.00625"
-        authors: <b>J. Dyer</b>, P. Cannon, J. D. Farmer, S. M. Schmon
-        conference: Submitted, 2022
 
       - title: Calibrating agent-based models to microdata with graph neural networks
         link: "https://openreview.net/forum?id=ZWyHGTUcgJD"

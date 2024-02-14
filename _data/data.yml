@@ -147,7 +147,7 @@ projects:
 
       - title: Black-box Bayesian inference for agent-based models
         link: "https://www.youtube.com/watch?v=yVNE8focE30"
-        tagline: "Recording of my INET Oxford talk on <a href=https://arxiv.org/abs/2202.00625>Black-box Bayesian inference for agent-based models</a>"
+        tagline: "Recording of my INET Oxford talk on <a href=https://www.sciencedirect.com/science/article/pii/S0165188924000198>Black-box Bayesian inference for agent-based models</a>"
 
       - title: Calibrating agent-based models to microdata with graph neural networks
         link: "https://slideslive.com/38985937"
@@ -182,9 +182,9 @@ publications:
         conference: Submitted, 2023
 
       - title: Black-box Bayesian inference for agent-based models
-        link: "https://arxiv.org/abs/2202.00625"
+        link: "https://www.sciencedirect.com/science/article/pii/S0165188924000198"
         authors: <b>J. Dyer</b>, P. Cannon, J. D. Farmer, S. M. Schmon
-        conference: Forthcoming in the Journal of Economic Dynamics and Control, 2024
+        conference: Journal of Economic Dynamics and Control, 2024
        
       - title: Population synthesis as scenario generation for simulation-based planning under uncertainty
         link: "https://ora.ox.ac.uk/objects/uuid:87663b7f-60ca-44f3-8fa5-b9fd501e6270"

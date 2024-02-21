@@ -56,18 +56,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a postdoctoral researcher at the University of Oxford's Department of Computer Science
-      and a Research Fellow at the Oxford Institute for New Economic Thinking. I draw on computational
+      I am a postdoctoral researcher at the <b>University of Oxford's Department of Computer Science</b>
+      and a Research Fellow at the <b>Oxford Institute for New Economic Thinking</b>. I draw on computational
       statistics and machine learning to develop
       tools that help decision-makers reason about and experiment with complex systems using (often agent-based) 
       simulation models.
       
       I recently completed a DPhil in 
-      computational statistics and machine learning at the University of Oxford’s Mathematical 
-      Institute and Institute for New Economic Thinking under the supervision of Prof. J. Doyne 
-      Farmer. Previously, I held visiting positions at The Alan Turing Institute and the University of
-      Bristol as an Alan Turing Enrichment Student, and
-      worked as a Postdoctoral Research Scientist at Improbable before returning to academia.
+      computational statistics and machine learning at the <b>University of Oxford’s Mathematical 
+      Institute</b> and <b>Institute for New Economic Thinking</b> under the supervision of Prof. J. Doyne 
+      Farmer. Previously, I held visiting positions at <b>The Alan Turing Institute</b> and the <b>University of
+      Bristol</b> as an <b>Alan Turing Enrichment Student</b>, and
+      worked as a Postdoctoral Research Scientist at <b>Improbable</b> before returning to academia.
 education:
     title: Education
     info:
@@ -228,7 +228,11 @@ oss:
     contributions:
       - title: sbi4abm
         link: "https://github.com/joelnmdyer/sbi4abm"
-        tagline: "A toolbox consisting of flexible, simulation-efficient <a href=https://arxiv.org/abs/2202.00625>calibration methods for agent-based models</a>"
+        tagline: "A toolbox consisting of flexible, simulation-efficient <a href=https://www.sciencedirect.com/science/article/pii/S0165188924000198>calibration methods for agent-based models</a>"
+
+      - title: synthpop
+        link: "https://github.com/joelnmdyer/synthpop"
+        tagline: "A toolbox accompanying our <a href=https://www.aamas2024-conference.auckland.ac.nz/accepted/papers/>AAMAS 2024</a> paper on <a href=https://ora.ox.ac.uk/objects/uuid:87663b7f-60ca-44f3-8fa5-b9fd501e6270>scenario generation through population synthesis in agent-based models</a>"
 
       - title: BlackBIRDS
         link: "https://github.com/arnauqb/blackbirds"

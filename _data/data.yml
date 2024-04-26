@@ -176,6 +176,12 @@ publications:
       <a href="https://scholar.google.com/citations?user=HeQWo3QAAAAJ&hl=en">Google Scholar</a>
       page. Some recent papers include:
     papers:       
+            
+      - title: Approximate Bayesian computation with path signatures
+        link: "https://arxiv.org/abs/2106.12555"
+        authors: <b>J. Dyer</b>, P. Cannon, S. M. Schmon
+        conference: Forthcoming at the 40th Conference on Uncertainty in Artificial Intelligence (UAI 2024)
+
       - title: Interventionally consistent surrogates for agent-based simulators
         link: "https://arxiv.org/abs/2312.11158"
         authors: <b>J. Dyer</b>, N. Bishop, Y. Felekis, F. M. Zennaro, A. Calinescu, T. Damoulas, M. J. Wooldridge
@@ -189,7 +195,7 @@ publications:
       - title: Population synthesis as scenario generation for simulation-based planning under uncertainty
         link: "https://ora.ox.ac.uk/objects/uuid:87663b7f-60ca-44f3-8fa5-b9fd501e6270"
         authors: <b>J. Dyer</b>, A. Quera-Bofarull, N. Bishop, J. D. Farmer, A. Calinescu, M. J. Wooldridge
-        conference: Forthcoming in the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)
+        conference: Forthcoming at the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)
      
       - title: Gradient-assisted calibration for agent-based models in finance
         link: "https://dl.acm.org/doi/10.1145/3604237.3626857"
@@ -215,11 +221,6 @@ publications:
         link: "https://proceedings.mlr.press/v151/dyer22a.html"
         authors: <b>J. Dyer</b>, P. Cannon, S. M. Schmon
         conference: AISTATS 2022
-        
-      - title: Approximate Bayesian computation with path signatures
-        link: "https://arxiv.org/abs/2106.12555"
-        authors: <b>J. Dyer</b>, P. Cannon, S. M. Schmon
-        conference: Submitted, 2021
 
 oss:
     title: Software

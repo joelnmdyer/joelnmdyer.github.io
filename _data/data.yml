@@ -90,13 +90,13 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Postdoctoral Researcher
+      - role: Senior Postdoctoral Researcher
         time: Present
         company: University of Oxford
 #         details: |
 #           My research draws from statistics and machine learning to develop methodology and 
 #           tooling for agent-based models.
-      - role: Research Fellow
+      - role: Senior Research Fellow
         time: Present
         company: Institute for New Economic Thinking, Oxford
       - role: Research Scientist

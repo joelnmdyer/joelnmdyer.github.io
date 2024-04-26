@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Joel Dyer
-    tagline: Postdoctoral Researcher in AI for Agent-based Modelling
+    tagline: Senior Postdoctoral Researcher in AI for Agent-based Modelling
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,8 +56,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a postdoctoral researcher at the <b>University of Oxford's Department of Computer Science</b>
-      and a Research Fellow at the <b>Oxford Institute for New Economic Thinking</b>. I draw on <b>computational
+      I am a senior postdoctoral researcher at the <b>University of Oxford's Department of Computer Science</b>
+      and a Senior Research Fellow at the <b>Oxford Institute for New Economic Thinking</b>. I draw on <b>computational
       statistics</b> and <b>machine learning</b> to develop
       tools that help decision-makers reason about and experiment with <b>complex systems</b> using (often agent-based) 
       <b>simulation</b> models.

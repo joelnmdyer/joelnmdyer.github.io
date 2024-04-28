@@ -182,15 +182,15 @@ publications:
         authors: <b>J. Dyer</b>, P. Cannon, S. M. Schmon
         conference: Forthcoming at the 40th Conference on Uncertainty in Artificial Intelligence (UAI 2024)
 
-      - title: Interventionally consistent surrogates for agent-based simulators
-        link: "https://arxiv.org/abs/2312.11158"
-        authors: <b>J. Dyer</b>, N. Bishop, Y. Felekis, F. M. Zennaro, A. Calinescu, T. Damoulas, M. J. Wooldridge
-        conference: Submitted, 2023
-
       - title: Black-box Bayesian inference for agent-based models
         link: "https://www.sciencedirect.com/science/article/pii/S0165188924000198"
         authors: <b>J. Dyer</b>, P. Cannon, J. D. Farmer, S. M. Schmon
         conference: Journal of Economic Dynamics and Control, 2024
+
+      - title: Interventionally consistent surrogates for agent-based simulators
+        link: "https://arxiv.org/abs/2312.11158"
+        authors: <b>J. Dyer</b>, N. Bishop, Y. Felekis, F. M. Zennaro, A. Calinescu, T. Damoulas, M. J. Wooldridge
+        conference: Submitted, 2024
        
       - title: Population synthesis as scenario generation for simulation-based planning under uncertainty
         link: "https://ora.ox.ac.uk/objects/uuid:87663b7f-60ca-44f3-8fa5-b9fd501e6270"

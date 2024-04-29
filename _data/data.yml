@@ -186,6 +186,11 @@ publications:
         link: "https://www.sciencedirect.com/science/article/pii/S0165188924000198"
         authors: <b>J. Dyer</b>, P. Cannon, J. D. Farmer, S. M. Schmon
         conference: Journal of Economic Dynamics and Control, 2024
+                    
+      - title: Causally abstracted multi-armed bandits
+        link: "https://arxiv.org/abs/2404.17493"
+        authors: F. M. Zennaro, N. Bishop, <b>J. Dyer</b>, Y. Felekis, A. Calinescu, M. J. Wooldridge, T. Damoulas
+        conference: Forthcoming at the 40th Conference on Uncertainty in Artificial Intelligence (UAI 2024)
 
       - title: Interventionally consistent surrogates for agent-based simulators
         link: "https://arxiv.org/abs/2312.11158"

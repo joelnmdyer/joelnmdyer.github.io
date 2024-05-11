@@ -56,8 +56,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a senior postdoctoral researcher at the <b>University of Oxford's Department of Computer Science</b>
-      and a Senior Research Fellow at the <b>Oxford Institute for New Economic Thinking</b>. I draw on <b>computational
+      I am a <a href=https://www.cs.ox.ac.uk/people/joel.dyer/>senior postdoctoral researcher</a> at the <b>University of Oxford's Department of Computer Science</b>
+      and a <a href=https://www.inet.ox.ac.uk/people/joel-dyer>Senior Research Fellow</a> at the <b>Oxford Institute for New Economic Thinking</b>. I draw on <b>computational
       statistics</b> and <b>machine learning</b> to develop
       tools that help decision-makers reason about and experiment with <b>complex systems</b> using (often agent-based) 
       <b>simulation</b> models.
@@ -90,13 +90,13 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Senior Postdoctoral Researcher
+      - role: <a href=https://www.cs.ox.ac.uk/people/joel.dyer/>Senior Postdoctoral Researcher</a>
         time: Present
         company: University of Oxford
 #         details: |
 #           My research draws from statistics and machine learning to develop methodology and 
 #           tooling for agent-based models.
-      - role: Senior Research Fellow
+      - role: <a href=https://www.inet.ox.ac.uk/people/joel-dyer>Senior Research Fellow</a>
         time: Present
         company: Institute for New Economic Thinking, Oxford
       - role: Research Scientist

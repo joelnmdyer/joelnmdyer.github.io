@@ -62,11 +62,11 @@ career-profile:
       tools that help decision-makers reason about and experiment with <b>complex systems</b> using (often agent-based) 
       <b>simulation</b> models.
       
-      I recently completed a DPhil in 
+      I completed a DPhil in 
       computational statistics and machine learning at the <b>University of Oxford’s Mathematical 
       Institute</b> and <b>Institute for New Economic Thinking</b> under the supervision of Prof. J. Doyne 
-      Farmer. Previously, I held visiting positions at <b>The Alan Turing Institute</b> and the <b>University of
-      Bristol</b> as an <b>Alan Turing Enrichment Student</b>, and
+      Farmer in 2022. During this time, I held visiting positions at <b>The Alan Turing Institute</b> and the <b>University of
+      Bristol</b> as an <b>Alan Turing Enrichment Student</b>, and afterwards 
       worked as a Postdoctoral Research Scientist at <b>Improbable</b> before returning to academia.
 education:
     title: Education
@@ -141,6 +141,10 @@ projects:
     intro: >
       Some videos, projects, and blogs can be found at the following links:
     assignments:
+      - title: AAMAS 2024 Tutorial on Differentiable Agent-based Models
+        link: "https://www.aamas2024-conference.auckland.ac.nz/accepted/tutorials/#T4"
+        tagline: "We delivered a tutorial at AAMAS 2024 on our work on <a href=https://www.inet.ox.ac.uk/publications/gradient-assisted-calibration-for-financial-agent-based-models/>building and calibrating differentiable agent-based models</a>.
+
       - title: Variational Bayesian inference for (differentiable and non-differentiable) agent-based models
         link: "https://www.youtube.com/watch?v=ria0aKWztGE"
         tagline: "Recording of my INET Oxford talk on <a href=https://www.inet.ox.ac.uk/publications/gradient-assisted-calibration-for-financial-agent-based-models/>the use of differentiable programming and generalised variational Bayesian inference to calibrate both differentiable and (standard) non-differentiable agent-based models</a>"

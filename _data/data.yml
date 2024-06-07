@@ -142,7 +142,7 @@ projects:
       Some videos, projects, and blogs can be found at the following links:
     assignments:
       - title: AAMAS 2024 Tutorial on Differentiable Agent-based Model
-        link: "https://www.aamas2024-conference.auckland.ac.nz/accepted/tutorials/"
+        link: "https://www.aamas2024-conference.auckland.ac.nz/accepted/tutorials/#T4"
         tagline: "We delivered a tutorial on <a href=https://www.inet.ox.ac.uk/publications/gradient-assisted-calibration-for-financial-agent-based-models/>building and calibrating differentiable agent-based models</a> at AAMAS 2024"
 
       - title: Variational Bayesian inference for (differentiable and non-differentiable) agent-based models

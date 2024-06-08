@@ -137,7 +137,7 @@ experiences:
 #             - Bullet point
 #             - Bullet point
 projects:
-    title: Videos, projects, and blogs
+    title: Videos/projects/blogs/talks
     intro: >
       Some videos, projects, and blogs can be found at the following links:
     assignments:
@@ -145,9 +145,13 @@ projects:
         link: "https://www.aamas2024-conference.auckland.ac.nz/accepted/tutorials/#T4"
         tagline: "We delivered a tutorial on <a href=https://www.inet.ox.ac.uk/publications/gradient-assisted-calibration-for-financial-agent-based-models/>building and calibrating differentiable agent-based models</a> at AAMAS 2024"
 
+      - title: Gradient-assisted calibration for (differentiable and non-differentiable) financial agent-based models
+        link: "https://joelnmdyer.github.io/assets/Gradient-Assisted%20Calibration%20for%20(Non-)Differentiable%20Agent-Based%20Models%20in%20Finance.pdf"
+        tagline: "Slides from my ICAIF '23 talk on <a href=https://www.inet.ox.ac.uk/publications/gradient-assisted-calibration-for-financial-agent-based-models/>Bayesian calibration of differentiable agent-based models in finance</a>"
+
       - title: Variational Bayesian inference for (differentiable and non-differentiable) agent-based models
         link: "https://www.youtube.com/watch?v=ria0aKWztGE"
-        tagline: "Recording of my INET Oxford talk on <a href=https://www.inet.ox.ac.uk/publications/gradient-assisted-calibration-for-financial-agent-based-models/>the use of differentiable programming and generalised variational Bayesian inference to calibrate both differentiable and (standard) non-differentiable agent-based models</a>"
+        tagline: "Recording of my INET Oxford talk on <a href=https://www.inet.ox.ac.uk/publications/gradient-assisted-calibration-for-financial-agent-based-models/>the use of differentiable programming and generalised variational Bayesian inference to calibrate both differentiable and (standard) non-differentiable agent-based models</a>. Slides available <a href="https://joelnmdyer.github.io/assets/GVB%20for%20ABMs.pdf">here<a/>"
 
       - title: Black-box Bayesian inference for agent-based models
         link: "https://www.youtube.com/watch?v=yVNE8focE30"

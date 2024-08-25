@@ -188,7 +188,7 @@ publications:
       - title: Approximate Bayesian computation with path signatures
         link: "https://arxiv.org/abs/2106.12555"
         authors: <b>J. Dyer</b>, P. Cannon, S. M. Schmon
-        conference: Forthcoming at the 40th Conference on Uncertainty in Artificial Intelligence (UAI 2024)
+        conference: <b>Best Paper Award</b> and Spotlight at UAI 2024
 
       - title: Black-box Bayesian inference for agent-based models
         link: "https://www.sciencedirect.com/science/article/pii/S0165188924000198"
@@ -198,7 +198,7 @@ publications:
       - title: Causally abstracted multi-armed bandits
         link: "https://arxiv.org/abs/2404.17493"
         authors: F. M. Zennaro, N. Bishop, <b>J. Dyer</b>, Y. Felekis, A. Calinescu, M. J. Wooldridge, T. Damoulas
-        conference: Forthcoming at the 40th Conference on Uncertainty in Artificial Intelligence (UAI 2024)
+        conference: Oral at UAI 2024
 
       - title: Interventionally consistent surrogates for agent-based simulators
         link: "https://arxiv.org/abs/2312.11158"
@@ -208,12 +208,12 @@ publications:
       - title: Population synthesis as scenario generation for simulation-based planning under uncertainty
         link: "https://ora.ox.ac.uk/objects/uuid:87663b7f-60ca-44f3-8fa5-b9fd501e6270"
         authors: <b>J. Dyer</b>, A. Quera-Bofarull, N. Bishop, J. D. Farmer, A. Calinescu, M. J. Wooldridge
-        conference: Forthcoming at the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)
+        conference: Oral at AAMAS 2024
      
       - title: Gradient-assisted calibration for agent-based models in finance
         link: "https://dl.acm.org/doi/10.1145/3604237.3626857"
         authors: <b>J. Dyer</b>, A. Quera-Bofarull, A. Chopra, J. D. Farmer, A. Calinescu, M. J. Wooldridge
-        conference: Proceedings of the Fourth International Conference on AI in Finance (ICAIF 2023)
+        conference: Oral at the Fourth International Conference on AI in Finance (ICAIF 2023)
 
       - title: BlackBIRDS - Black-Box Inference foR Differentiable Simulators
         link: "https://joss.theoj.org/papers/10.21105/joss.05776"
@@ -228,7 +228,7 @@ publications:
       - title: Calibrating agent-based models to microdata with graph neural networks
         link: "https://openreview.net/forum?id=ZWyHGTUcgJD"
         authors: <b>J. Dyer</b>, P. Cannon, J. D. Farmer, S. M. Schmon
-        conference: Best Short Paper, ICML 2022 Workshop on AI for Agent-based Modelling
+        conference: <b>Best Short Paper</b> at the ICML 2022 Workshop on AI for Agent-based Modelling
         
       - title: Amortised likelihood-free inference for expensive time-series simulators with signatured density ratio estimation
         link: "https://proceedings.mlr.press/v151/dyer22a.html"

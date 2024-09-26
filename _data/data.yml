@@ -184,6 +184,11 @@ publications:
       <a href="https://scholar.google.com/citations?user=HeQWo3QAAAAJ&hl=en">Google Scholar</a>
       page. Some recent papers include:
     papers:       
+
+      - title: Interventionally consistent surrogates for complex simulation models
+        link: "https://arxiv.org/abs/2312.11158"
+        authors: <b>J. Dyer</b>, N. Bishop, Y. Felekis, F. M. Zennaro, A. Calinescu, T. Damoulas, M. J. Wooldridge
+        conference: Forthcoming at NeurIPS, 2024
             
       - title: Approximate Bayesian computation with path signatures
         link: "https://arxiv.org/abs/2106.12555"
@@ -199,11 +204,6 @@ publications:
         link: "https://arxiv.org/abs/2404.17493"
         authors: F. M. Zennaro, N. Bishop, <b>J. Dyer</b>, Y. Felekis, A. Calinescu, M. J. Wooldridge, T. Damoulas
         conference: Oral at UAI 2024
-
-      - title: Interventionally consistent surrogates for agent-based simulators
-        link: "https://arxiv.org/abs/2312.11158"
-        authors: <b>J. Dyer</b>, N. Bishop, Y. Felekis, F. M. Zennaro, A. Calinescu, T. Damoulas, M. J. Wooldridge
-        conference: Submitted, 2024
        
       - title: Population synthesis as scenario generation for simulation-based planning under uncertainty
         link: "https://ora.ox.ac.uk/objects/uuid:87663b7f-60ca-44f3-8fa5-b9fd501e6270"

@@ -186,7 +186,7 @@ publications:
     papers:       
 
       - title: Interventionally consistent surrogates for complex simulation models
-        link: "https://arxiv.org/abs/2312.11158"
+        link: "https://joelnmdyer.github.io/assets/Interventionally_Consistent_Surrogates_for_Complex_Simulation_Models.pdf"
         authors: <b>J. Dyer</b>, N. Bishop, Y. Felekis, F. M. Zennaro, A. Calinescu, T. Damoulas, M. J. Wooldridge
         conference: Forthcoming at NeurIPS, 2024
             

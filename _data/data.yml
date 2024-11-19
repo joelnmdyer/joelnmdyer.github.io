@@ -141,6 +141,10 @@ projects:
     intro: >
       Some videos, projects, and blogs can be found at the following links:
     assignments:
+      - title: ICAIF 2024 Tutorial on Differentiable Agent-based Modelling
+        link: "https://largeagentcollider.github.io/icaif_tutorial/"
+        tagline: "We delivered a tutorial on <a href=https://www.inet.ox.ac.uk/publications/gradient-assisted-calibration-for-financial-agent-based-models/>building and calibrating differentiable agent-based models</a> at ICAIF 2024"
+
       - title: AAMAS 2024 Tutorial on Differentiable Agent-based Modelling
         link: "https://www.aamas2024-conference.auckland.ac.nz/accepted/tutorials/#T4"
         tagline: "We delivered a tutorial on <a href=https://www.inet.ox.ac.uk/publications/gradient-assisted-calibration-for-financial-agent-based-models/>building and calibrating differentiable agent-based models</a> at AAMAS 2024"

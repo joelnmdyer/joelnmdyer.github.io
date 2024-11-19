@@ -199,6 +199,11 @@ publications:
         authors: <b>J. Dyer</b>, P. Cannon, S. M. Schmon
         conference: <b>Best Paper Award</b> and Spotlight at UAI 2024
 
+      - title: Forecasting Macroeconomic Dynamics using a Calibrated Data-Driven Agent-based Model
+        link: "https://arxiv.org/abs/2409.18760"
+        authors: S. Wiese, J. Kaszowska-Mojsa, <b>J. Dyer</b>, et al.
+        conference: arXiv:2409.18760v1, 2024
+
       - title: Black-box Bayesian inference for agent-based models
         link: "https://www.sciencedirect.com/science/article/pii/S0165188924000198"
         authors: <b>J. Dyer</b>, P. Cannon, J. D. Farmer, S. M. Schmon

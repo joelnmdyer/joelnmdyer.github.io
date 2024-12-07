@@ -190,12 +190,12 @@ publications:
     papers:       
 
       - title: Interventionally consistent surrogates for complex simulation models
-        link: "https://joelnmdyer.github.io/assets/Interventionally_Consistent_Surrogates_for_Complex_Simulation_Models.pdf"
+        link: "https://openreview.net/pdf?id=UtTjgMDTFO"
         authors: <b>J. Dyer</b>, N. Bishop, Y. Felekis, F. M. Zennaro, A. Calinescu, T. Damoulas, M. J. Wooldridge
         conference: Forthcoming at NeurIPS, 2024
             
       - title: Approximate Bayesian computation with path signatures
-        link: "https://arxiv.org/abs/2106.12555"
+        link: "https://proceedings.mlr.press/v244/dyer24a.html"
         authors: <b>J. Dyer</b>, P. Cannon, S. M. Schmon
         conference: <b>Best Paper Award</b> and Spotlight at UAI 2024
 

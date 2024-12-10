@@ -192,7 +192,7 @@ publications:
       - title: Interventionally consistent surrogates for complex simulation models
         link: "https://openreview.net/pdf?id=UtTjgMDTFO"
         authors: <b>J. Dyer</b>, N. Bishop, Y. Felekis, F. M. Zennaro, A. Calinescu, T. Damoulas, M. J. Wooldridge
-        conference: Forthcoming at NeurIPS, 2024
+        conference: NeurIPS 2024
             
       - title: Approximate Bayesian computation with path signatures
         link: "https://proceedings.mlr.press/v244/dyer24a.html"

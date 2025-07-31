@@ -186,12 +186,12 @@ publications:
     intro: |
       A full list of my publications can be found on my 
       <a href="https://scholar.google.com/citations?user=HeQWo3QAAAAJ&hl=en">Google Scholar</a>
-      page. Some recent papers include:
+      page. Some recent papers (with * denoting equal contribution) include:
     papers:       
 
       - title: Learning Likelihood-free Reference Priors
         link: "https://openreview.net/pdf?id=4lfmCCYKDY"
-        authors: N. Bishop*, D. J. Ornia, <b>J. Dyer</b>, A. Calinescu, M. J. Wooldridge
+        authors: N. Bishop*, D. J. Ornia*, <b>J. Dyer</b>*, A. Calinescu, M. J. Wooldridge
         conference: ICML 2025       
 
       - title: Interventionally consistent surrogates for complex simulation models
@@ -221,7 +221,7 @@ publications:
      
       - title: Gradient-assisted calibration for agent-based models in finance
         link: "https://dl.acm.org/doi/10.1145/3604237.3626857"
-        authors: <b>J. Dyer</b>, A. Quera-Bofarull, A. Chopra, J. D. Farmer, A. Calinescu, M. J. Wooldridge
+        authors: <b>J. Dyer</b>*, A. Quera-Bofarull*, A. Chopra, J. D. Farmer, A. Calinescu, M. J. Wooldridge
         conference: Oral at the Fourth International Conference on AI in Finance (ICAIF 2023)
 
       - title: Calibrating agent-based models to microdata with graph neural networks

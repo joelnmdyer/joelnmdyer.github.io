@@ -189,6 +189,11 @@ publications:
       page. Some recent papers include:
     papers:       
 
+      - title: Learning Likelihood-free Reference Priors
+        link: "https://openreview.net/pdf?id=4lfmCCYKDY"
+        authors: N. Bishop*, D. J. Ornia, <b>J. Dyer</b>, A. Calinescu, M. J. Wooldridge
+        conference: ICML 2025       
+
       - title: Interventionally consistent surrogates for complex simulation models
         link: "https://openreview.net/pdf?id=UtTjgMDTFO"
         authors: <b>J. Dyer</b>, N. Bishop, Y. Felekis, F. M. Zennaro, A. Calinescu, T. Damoulas, M. J. Wooldridge
@@ -198,11 +203,6 @@ publications:
         link: "https://proceedings.mlr.press/v244/dyer24a.html"
         authors: <b>J. Dyer</b>, P. Cannon, S. M. Schmon
         conference: <b>Best Paper Award</b> and Spotlight at UAI 2024
-
-      - title: Forecasting Macroeconomic Dynamics using a Calibrated Data-Driven Agent-based Model
-        link: "https://arxiv.org/abs/2409.18760"
-        authors: S. Wiese, J. Kaszowska-Mojsa, <b>J. Dyer</b>, et al.
-        conference: arXiv:2409.18760v1, 2024
 
       - title: Black-box Bayesian inference for agent-based models
         link: "https://www.sciencedirect.com/science/article/pii/S0165188924000198"
@@ -223,16 +223,6 @@ publications:
         link: "https://dl.acm.org/doi/10.1145/3604237.3626857"
         authors: <b>J. Dyer</b>, A. Quera-Bofarull, A. Chopra, J. D. Farmer, A. Calinescu, M. J. Wooldridge
         conference: Oral at the Fourth International Conference on AI in Finance (ICAIF 2023)
-
-      - title: BlackBIRDS - Black-Box Inference foR Differentiable Simulators
-        link: "https://joss.theoj.org/papers/10.21105/joss.05776"
-        authors: A. Quera-Bofarull, <b>J. Dyer</b>, A. Calinescu, J. D. Farmer, M. J. Wooldridge
-        conference: The Journal of Open Source Software
-
-      - title: Some challenges of calibrating differentiable agent-based models
-        link: "https://arxiv.org/pdf/2307.01085"
-        authors: A. Quera-Bofarull, <b>J. Dyer</b>, A. Calinescu, M. J. Wooldridge
-        conference: ICML 2023 Workshop on Differentiable Almost Everything
 
       - title: Calibrating agent-based models to microdata with graph neural networks
         link: "https://openreview.net/forum?id=ZWyHGTUcgJD"
